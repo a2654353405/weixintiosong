@@ -7,7 +7,7 @@
 # 模板消息id
 "template_id": "g2GF6HMgB6PtXUunuCL6pz97QUZ4wO0N3P4PJaq3odU",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oacfp6fBTd7zoKo4LPSv-euZTvQY"],
+"user": ["oacfp6ZQ0QY2OaIBxBnuVLIUMPrs"],
 
 # 信息配置
 # 所在省份
@@ -19,5 +19,5 @@
 # 生日2
 "birthday2": {"name": "贝贝", "birthday": "2002-06-17"},
 # 在一起的日子，格式同上
-"love_date": "2021-07-11"
+"love_date": "2020-07-11"
 }
